@@ -1,0 +1,41 @@
+body {
+    background: red;
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  h2 {
+    color: white;
+  }
+  h4 {
+    color: blue
+  }
+  a {
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: grey solid 3px;
+    text-decoration: none;
+    margin-left: 10px;
+  }
+  a:hover {
+    color: black;
+  }
+  img {
+    width: 400px;
+  }
+  #progress {
+    -webkit-appearance: none;
+    height: 6px;
+    background: #000000;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 40px 0;
+  }
+
+
+  
